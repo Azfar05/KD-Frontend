@@ -1,0 +1,21 @@
+header {
+    background-color: rgb(4, 109, 71);
+    width: 100vw;
+    height: 10vh;
+}
+
+h1 {
+    color: white;
+}
+h2 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+p {
+    color: white;
+}
+body {
+    background-color: rgb(3, 67, 44);
+}
